@@ -12,3 +12,10 @@ body {
   height: 100vh;
   padding: 1em;
 }
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
